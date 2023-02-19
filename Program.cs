@@ -31,6 +31,19 @@ namespace loop
                     continue;
                     Console.WriteLine(i);
             }
+
+            char k = 'a';
+            while (k <= 'z')
+            {
+                Console.Write(k);
+                k++;
+            }
+            Console.WriteLine();
+            string [] colors = {"mavi","yeşil","kırmızı"};
+            foreach (var color in colors)
+            {
+                Console.WriteLine(color);
+            }
         } 
     }
 }

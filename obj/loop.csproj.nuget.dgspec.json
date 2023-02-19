@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Murat\\Desktop\\loop\\loop.csproj": {}
+    "C:\\Users\\Murat\\Desktop\\kk\\loop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Murat\\Desktop\\loop\\loop.csproj": {
+    "C:\\Users\\Murat\\Desktop\\kk\\loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Murat\\Desktop\\loop\\loop.csproj",
+        "projectUniqueName": "C:\\Users\\Murat\\Desktop\\kk\\loop.csproj",
         "projectName": "loop",
-        "projectPath": "C:\\Users\\Murat\\Desktop\\loop\\loop.csproj",
+        "projectPath": "C:\\Users\\Murat\\Desktop\\kk\\loop.csproj",
         "packagesPath": "C:\\Users\\Murat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Murat\\Desktop\\loop\\obj\\",
+        "outputPath": "C:\\Users\\Murat\\Desktop\\kk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
